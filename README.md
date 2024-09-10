@@ -1,5 +1,7 @@
 # MTG-Commander-Analysis
 
+Dashboard can be viewed [here](https://lookerstudio.google.com/reporting/ca2f8395-fbb8-4ae0-9e84-63cc80202753)
+
 ## Project Overview
 This project analyzes a dataset of 53 Magic: The Gathering Commander matches played between four players from June 2023 to August 2024. The data includes deck usage, player performance, win types, and match outcomes.
 
