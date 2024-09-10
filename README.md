@@ -1,4 +1,5 @@
 # MTG-Commander-Analysis
+![Magic: the Gathering artwork](peakpx.jpg)
 
 Dashboard can be viewed [here](https://lookerstudio.google.com/reporting/ca2f8395-fbb8-4ae0-9e84-63cc80202753)
 
